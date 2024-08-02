@@ -1,0 +1,10 @@
+c:\users\josval\documents\visual studio 2015\Projects\LaboratoryPatternsGOFBehavior\Accounts\bin\Debug\Accounts.dll
+c:\users\josval\documents\visual studio 2015\Projects\LaboratoryPatternsGOFBehavior\Accounts\bin\Debug\Accounts.pdb
+c:\users\josval\documents\visual studio 2015\Projects\LaboratoryPatternsGOFBehavior\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+c:\users\josval\documents\visual studio 2015\Projects\LaboratoryPatternsGOFBehavior\Accounts\obj\Debug\Accounts.dll
+c:\users\josval\documents\visual studio 2015\Projects\LaboratoryPatternsGOFBehavior\Accounts\obj\Debug\Accounts.pdb
+C:\Users\Josval\Documents\Visual Studio 2015\Projects\ASD\LaboratoryPatternsGOFBehavior(Incompleto)\Accounts\bin\Debug\Accounts.dll
+C:\Users\Josval\Documents\Visual Studio 2015\Projects\ASD\LaboratoryPatternsGOFBehavior(Incompleto)\Accounts\bin\Debug\Accounts.pdb
+C:\Users\Josval\Documents\Visual Studio 2015\Projects\ASD\LaboratoryPatternsGOFBehavior(Incompleto)\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+C:\Users\Josval\Documents\Visual Studio 2015\Projects\ASD\LaboratoryPatternsGOFBehavior(Incompleto)\Accounts\obj\Debug\Accounts.dll
+C:\Users\Josval\Documents\Visual Studio 2015\Projects\ASD\LaboratoryPatternsGOFBehavior(Incompleto)\Accounts\obj\Debug\Accounts.pdb
